@@ -1,4 +1,6 @@
-১. প্রশ্ন নাম্বার ১ এর উত্তর
+## Blog Post
+
+### ১. What are some differences between interfaces and types in TypeScript?
 
 TypeScript এ interface এবং type এর মধ্যে কিছু পার্থক্য আছে। তবে এই দুইটাই ব্যবহার করা হয় data structure define করার জন্য। তারপরও এদের মধ্যে কিছু গুরুত্বপূর্ণ পার্থক্য রয়েছে।
 
@@ -51,7 +53,9 @@ type Student = Person & {
 };
 ```
 
-২. প্রশ্ন নাম্বার ২ এর উত্তর
+---
+
+### ২. What is the use of the keyof keyword in TypeScript?
 
 TypeScript এ keyof keyword ব্যবহার করা হয় কোনো object type এর সব key বের করার জন্য।
 
